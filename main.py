@@ -1,3 +1,4 @@
+""" python practice By H.Haririan """
 code = "India Romeo Alpha November - Alpha Bravo Alpha Delta"
 words = code.split()
 msg = ""
